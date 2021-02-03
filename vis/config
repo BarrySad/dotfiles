@@ -1,0 +1,15 @@
+visualizer.fps=100
+
+audio.sampling.frequency=44100
+audio.low.cutoff.frequency=30
+audio.high.cutoff.frequency=22050
+
+visualizers=spectrum,ellipse,lorenz
+
+visualizer.spectrum.smoothing.mode=monstercat
+
+#colors.override.terminal=false
+
+colors.scheme=blue
+visualizer.spectrum.scheme=blue
+visualizer.spectrum.bar.width=1
